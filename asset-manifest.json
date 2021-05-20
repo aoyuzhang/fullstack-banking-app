@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/fullstack-banking-app/static/css/main.28f8fc7d.chunk.css",
+    "main.js": "/fullstack-banking-app/static/js/main.066368eb.chunk.js",
+    "main.js.map": "/fullstack-banking-app/static/js/main.066368eb.chunk.js.map",
+    "runtime-main.js": "/fullstack-banking-app/static/js/runtime-main.53521e41.js",
+    "runtime-main.js.map": "/fullstack-banking-app/static/js/runtime-main.53521e41.js.map",
+    "static/css/2.266846fb.chunk.css": "/fullstack-banking-app/static/css/2.266846fb.chunk.css",
+    "static/js/2.a3ffbc61.chunk.js": "/fullstack-banking-app/static/js/2.a3ffbc61.chunk.js",
+    "static/js/2.a3ffbc61.chunk.js.map": "/fullstack-banking-app/static/js/2.a3ffbc61.chunk.js.map",
+    "index.html": "/fullstack-banking-app/index.html",
+    "static/css/2.266846fb.chunk.css.map": "/fullstack-banking-app/static/css/2.266846fb.chunk.css.map",
+    "static/css/main.28f8fc7d.chunk.css.map": "/fullstack-banking-app/static/css/main.28f8fc7d.chunk.css.map",
+    "static/js/2.a3ffbc61.chunk.js.LICENSE.txt": "/fullstack-banking-app/static/js/2.a3ffbc61.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53521e41.js",
+    "static/css/2.266846fb.chunk.css",
+    "static/js/2.a3ffbc61.chunk.js",
+    "static/css/main.28f8fc7d.chunk.css",
+    "static/js/main.066368eb.chunk.js"
+  ]
+}
